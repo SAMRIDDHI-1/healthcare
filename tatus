@@ -1,0 +1,44 @@
+[33mcommit 0075b2cfed5acdc6f89556f911dfb8abe96dfa9c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: SAMRIDDHI-1 <114829223+SAMRIDDHI-1@users.noreply.github.com>
+Date:   Thu Jan 9 21:17:21 2025 +0530
+
+    Initial commit
+
+[33mcommit bafcc3624f45cf15aa14675c0a808dee642cb3be[m
+Author: 04struggler <struggler2035@gmail.com>
+Date:   Thu Jan 9 18:15:25 2025 +0530
+
+    first commit
+
+[33mcommit 40091655f83c04c851758595788dbdb955f8b846[m
+Merge: 145e118e db296466
+Author: Adrian Hajdin - JS Mastery <contact@jsmastery.pro>
+Date:   Mon Jul 22 20:52:25 2024 +0200
+
+    Merge pull request #28 from billy93/main
+    
+    fix: update formatDateTime to use client timezone before sending sms
+
+[33mcommit db296466714c87abaf1e6db1eda271c8cb76d62b[m
+Author: Andreas Billy Sutandi <andreas.sutandi@atibusinessgroup.com>
+Date:   Mon Jul 22 23:59:42 2024 +0700
+
+    fix: update formatDateTime to use client timezone before sending sms
+
+[33mcommit 145e118ea361f959b60b89146722db4054b07b68[m
+Author: Sujata <151519281+sujatagunale@users.noreply.github.com>
+Date:   Tue Jul 9 22:05:53 2024 +0530
+
+    Update README.md
+
+[33mcommit 73d9c71ff2585fb3eb3cda2cc89c1679034304d6[m
+Author: Sujata <151519281+sujatagunale@users.noreply.github.com>
+Date:   Fri Jul 5 17:21:15 2024 +0530
+
+    Update README.md
+
+[33mcommit 6bd215a48a448172f1fe0e2eca6694e1136b3faf[m
+Author: adrianhajdin <contact@jsmastery.pro>
+Date:   Fri Jul 5 12:58:23 2024 +0200
+
+    first commit
