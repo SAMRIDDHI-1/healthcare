@@ -82,7 +82,9 @@ const RegisterForm = ({ user }: { user: User }) => {
         identificationDocument: values.identificationDocument
           ? formData
           : undefined,
-        privacyConsent: values.privacyConsent,
+        // privacyConsent: values.privacyConsent,
+        // treatmentConsent: values.treatmentConsent,
+        // disclosureConsent: values.disclosureConsent,
       };
 
       const newPatient = await registerPatient(patient);
@@ -351,7 +353,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             <h2 className="sub-header">Consent and Privacy</h2>
           </div>
 
-          <CustomFormField
+          {/* <CustomFormField
             fieldType={FormFieldType.CHECKBOX}
             control={form.control}
             name="treatmentConsent"
@@ -372,7 +374,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             name="privacyConsent"
             label="I acknowledge that I have reviewed and agree to the
             privacy policy"
-          />
+          /> */}
         </section>
 
         <SubmitButton isLoading={isLoading}>Submit and Continue</SubmitButton>
